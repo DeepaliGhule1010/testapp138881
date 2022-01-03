@@ -1,6 +1,6 @@
 {
     "configVersion": 2,
-    "appIdentifier": "myapp.testapp138881",
+    "appIdentifier": "io.mxapps.testapp138881_sandbox",
     "appName": "TestApp138881",
     "bundleName": {
         "main": "TestApp138881",
@@ -95,7 +95,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.1.0",
+    "appVersion": "0.0.1",
     "buildNumber": 1,
     "runtimeUrl": "https://testapp138881-sandbox.mxapps.io/"
 }
